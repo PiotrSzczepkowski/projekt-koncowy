@@ -1,0 +1,19 @@
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt_koncowy.Properties.Resources.resources
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.sourcelink.json
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.exe
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.dll.config
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.deps.json
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.runtimeconfig.json
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.dll
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\bin\Debug\net8.0-windows\projekt koncowy.pdb
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.dll
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\refint\projekt koncowy.dll
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.pdb
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\projekt koncowy.genruntimeconfig.cache
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\ref\projekt koncowy.dll
+C:\Users\piotr\source\repos\Podstawy-c-\projekt koncowy\projekt koncowy\obj\Debug\net8.0-windows\SnakeGame.Form1.resources
